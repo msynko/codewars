@@ -25,4 +25,4 @@ function oddOrEven(array) {
 
 oddOrEven([0]);
 oddOrEven([2, 5, 34, 6]);
-oddOrEven([0, -1, -5);
+oddOrEven([0, -1, -5]);
